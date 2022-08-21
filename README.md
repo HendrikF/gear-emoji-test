@@ -105,5 +105,3 @@ lines
 of
 
 text
-
-
